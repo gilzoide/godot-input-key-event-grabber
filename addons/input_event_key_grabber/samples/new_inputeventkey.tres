@@ -1,4 +1,7 @@
 [gd_resource type="InputEventKey" format=2]
 
 [resource]
-scancode = 16777217
+alt = true
+pressed = true
+scancode = 72
+unicode = 104
