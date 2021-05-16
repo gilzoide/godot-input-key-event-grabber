@@ -9,9 +9,9 @@ const PROPERTIES = PoolStringArray([
 	"meta",
 	"command",
 ])
-const InputEventKeyGrabber = preload("res://addons/input_event_key_grabber/input_event_key_grabber.gd")
+const InputEventKeyGrabberButton = preload("res://addons/input_event_key_grabber/input_event_key_grabber_button.gd")
 
-var _grabber = InputEventKeyGrabber.new()
+var _grabber = InputEventKeyGrabberButton.new()
 
 func _ready() -> void:
 	add_child(_grabber)
