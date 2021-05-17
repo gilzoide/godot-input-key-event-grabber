@@ -11,4 +11,4 @@ func can_handle(object: Object) -> bool:
 
 func parse_begin(object: Object) -> void:
 	var editor_property = InputEventKeyEditorProperty.new()
-	add_property_editor_for_multiple_properties("Key", InputEventKeyEditorProperty.PROPERTIES, editor_property)
+	add_property_editor_for_multiple_properties("Key Combo", InputEventKeyEditorProperty.PROPERTIES, editor_property)
