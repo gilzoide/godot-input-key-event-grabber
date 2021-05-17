@@ -1,3 +1,5 @@
+# This file is part of InputKeyEvent Grabber, licensed under CC0 1.0
+# Project URL: https://github.com/gilzoide/godot-input-key-event-grabber
 extends EditorProperty
 
 const PROPERTIES = PoolStringArray([
