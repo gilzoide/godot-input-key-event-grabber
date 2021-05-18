@@ -14,6 +14,7 @@ config/name="InputEventKey Grabber"
 config/description="A button that grabs key events and populate an InputEventKey instance.
 
 Comes with a property editor for easy setup of InputEventKey Resources in editor, great for creating ShortCuts."
+run/main_scene="res://addons/input_event_key_grabber/samples/SampleScene.tscn"
 config/icon="res://icon.png"
 
 [editor_plugins]
