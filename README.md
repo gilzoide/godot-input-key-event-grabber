@@ -7,8 +7,9 @@ great for creating ShortCut resources.
 Check out the scene at the [addons/input_event_key_grabber/samples](addons/input_event_key_grabber/samples)
 folder for a complete usage example.
 
-![](screenshots/inputeventkey.png)
-![](screenshots/shortcut.png)
+![](screenshots/inputeventkey.gif)
+
+![](screenshots/shortcut.gif)
 
 
 ## [Installing](https://docs.godotengine.org/en/stable/tutorials/plugins/editor/installing_plugins.html)
