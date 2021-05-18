@@ -4,6 +4,9 @@ A button that grabs key events and populate an InputEventKey instance for [Godot
 Comes with a property editor for easy setup of InputEventKey Resources in editor,
 great for creating ShortCut resources.
 
+Check out the scene at the [addons/input_event_key_grabber/samples](addons/input_event_key_grabber/samples)
+folder for a complete usage example.
+
 ![](screenshots/inputeventkey.png)
 ![](screenshots/shortcut.png)
 
