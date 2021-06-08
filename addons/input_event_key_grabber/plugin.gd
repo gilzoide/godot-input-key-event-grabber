@@ -3,8 +3,8 @@
 tool
 extends EditorPlugin
 
-const InputEventKeyGrabberButton = preload("res://addons/input_event_key_grabber/input_event_key_grabber_button.gd")
-const InputEventKeyInspectorPlugin = preload("res://addons/input_event_key_grabber/input_event_key_inspector_plugin.gd")
+const InputEventKeyGrabberButton = preload("input_event_key_grabber_button.gd")
+const InputEventKeyInspectorPlugin = preload("input_event_key_inspector_plugin.gd")
 
 var _inspector_plugin: EditorInspectorPlugin
 

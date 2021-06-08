@@ -2,7 +2,7 @@
 # Project URL: https://github.com/gilzoide/godot-input-key-event-grabber
 extends EditorInspectorPlugin
 
-const InputEventKeyEditorProperty = preload("res://addons/input_event_key_grabber/input_event_key_editor_property.gd")
+const InputEventKeyEditorProperty = preload("input_event_key_editor_property.gd")
 
 
 func can_handle(object: Object) -> bool:

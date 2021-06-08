@@ -11,7 +11,7 @@ const PROPERTIES = PoolStringArray([
 	"meta",
 	"command",
 ])
-const InputEventKeyGrabberButton = preload("res://addons/input_event_key_grabber/input_event_key_grabber_button.gd")
+const InputEventKeyGrabberButton = preload("input_event_key_grabber_button.gd")
 
 var _grabber = InputEventKeyGrabberButton.new()
 
